@@ -16,10 +16,10 @@
 
 ## ダウンロードして使う（PC）
 
-- Mac: [GIFmaker-mac.zip](downloads/GIFmaker-mac.zip)
-- Windows ほか: [GIFmaker.zip](downloads/GIFmaker.zip)
+[GIFmaker.zip](downloads/GIFmaker.zip)（Mac・Windows 共通）
 
 展開した「GIF作成」フォルダの「GIF作成.html」をダブルクリックすると、ブラウザで開きます。
+Macでは、フォルダとファイルにアプリのアイコンが付きます。Windowsで展開したときにできる「__MACOSX」フォルダと「Icon」ファイルはMac用の情報なので、削除して構いません。
 詳しい使い方は、フォルダ内の「使い方.txt」とアプリ内の「?」ボタンをご覧ください。
 
 ## 利用条件
