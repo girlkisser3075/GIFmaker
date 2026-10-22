@@ -1,0 +1,20 @@
+Bundled Japanese fonts
+
+Noto Sans JP Regular
+Version 2.004
+Copyright: © 2014-2021 Adobe (http://www.adobe.com/).
+License: SIL Open Font License 1.1
+License text: LICENSE-NotoSansJP.txt
+Source: https://github.com/notofonts/noto-cjk/blob/main/Sans/SubsetOTF/JP/NotoSansJP-Regular.otf
+
+Noto Serif JP Regular
+Version 2.003
+Copyright: © 2017-2024 Adobe (http://www.adobe.com/).
+License: SIL Open Font License 1.1
+License text: LICENSE-NotoSerifJP.txt
+Source: https://github.com/notofonts/noto-cjk/blob/main/Serif/SubsetOTF/JP/NotoSerifJP-Regular.otf
+
+The fonts are embedded in WOFF2 format, a lossless repackaging of the original OTF files.
+Glyphs, metrics, naming and licensing metadata are unchanged; only the empty DSIG table is
+omitted, as the WOFF2 format requires.
+GifSans and GifSerif are CSS aliases used by this application.
